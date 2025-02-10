@@ -6,7 +6,8 @@ meme_dict = {
             'CREEPY': 'aterrador, siniestro',
             'QUE ONDA': 'expresión mexicana que se usa para saludar o preguntar cómo está alguien',
             'VIBES': 'Se usa para describir la atmósfera o sensación que algo transmite, tanto en personas como situaciones',
-            'BTW': 'significa por cierto o a propósito'
+            'BTW': 'significa por cierto o a propósito',
+            'F': 'Expresion de respeto o tristeza por algo que salio mal'
             }
 
 while True:
